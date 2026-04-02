@@ -32,19 +32,12 @@
     👨‍💻 Repositório clonado após aula de Felipe Aguiar
     </p>
       <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
+      href="www.linkedin.com/in/willian-gomes-de-melo-gattass" 
       align="center">
            <img 
             align="center" 
             alt="Material de Apoio" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
             >
         </a>
     </td>
@@ -65,13 +58,11 @@ Vamos criar a lógica por trás do carrinho de compras da shopee, aonde o carrin
 Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
 
 - [habilidades ou conhecimentos prévios necessários]
-
   - Javascript | Intermediário
   - Node | Básico
   - Modularização | Básica
 
 - [Outros pré-requisitos]
-
   - Lógica de Programação | Intermediário
 
 ## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
